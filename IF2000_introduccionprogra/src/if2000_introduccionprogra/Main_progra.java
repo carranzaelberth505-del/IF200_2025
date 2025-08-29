@@ -115,7 +115,7 @@ public class Main_progra {
    
     ej.Ejercicio6();
     
-  /*Lab1 eje = new Lab1(); 
+    Lab1 eje = new Lab1(); 
    eje.ejercicio7_Pulsaciones();
     
    
@@ -123,9 +123,9 @@ public class Main_progra {
     
    
     
-    ej.ejercicio9();      Profesor esta cosa no me deja copilar todo junto, pero si se copila una parte y luego otra
-                          es que solo asi copila, pero en si todo el progrma esta bueno... me rompi demasiado la cabeza.
-                          para copilar descomente esta parte de ahi para abajo todo funciona.
+    ej.ejercicio9();     
+                          
+                          
     
    
    ej.Ejercicio10();
@@ -135,7 +135,7 @@ public class Main_progra {
     
     
     
-   ej.ejercicio12();*/
+   ej.ejercicio12();
      
     
     }

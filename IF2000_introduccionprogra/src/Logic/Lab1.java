@@ -148,7 +148,7 @@ public class Lab1 {
         System.out.println("No hubo ninguna nota con valor 10.");
     }
 
-    sc.close();
+  
 }
     
     public void ejercicio7_Pulsaciones(){
@@ -196,7 +196,7 @@ public class Lab1 {
     }
 
     System.out.println("La utilidad a recibir es: " + utilidad);
-    sc.close();
+    
 }
     
     public void ejercicio9(){
@@ -252,7 +252,7 @@ public class Lab1 {
     System.out.println("Monto descontado: $" + descuento);
     System.out.println("Monto total a pagar: $" + totalPagar);
 
-    sc.close();
+    
 }
 
 
