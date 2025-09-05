@@ -4,51 +4,73 @@
  */
 package if2000_introduccionprogra;
 import Logic.Lab1;import Logic.Semana_2_clase;
+import Logic.lab_2;
 
 
 
 
+    /**
+     * @param args the command line arguments
 /**
  *
  * @author Lenovo X1
  */import java.util.Scanner;
-public class Main_progra {
-      /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-       Scanner sc = new Scanner(System.in);
-         /*Semana_2_clase e = new Semana_2_clase();*/
-        
-         
-         
-         
-         
-         
+public class Main_progra{  
+   public static void main (String args []){
+    
+       lab_2 ej;
+      ej=new lab_2();
+       ej.ejercicio13();
+     
+       ej.ejercicio_14();
+       ej.ejercicio15(0, 0);
+      ej.ejercicio16();
+       ej.ejercicio17();
+      ej.ejercicio18();
+      ej.ejercicio19();
+      ej.Ejercicio_20();
+      
+      ej.ejercicio21();
+       ej.ejercicio22();
+       ej.ejercicio23();
+       ej.ejercicio24();
+      ej.ejercicio25();
+      ej.ejercicio_26();
+       ej.ejercicio27();
+       
+       
+       
+   
+
+
+
+
+
+
         // TODO code application logic here
      //data types
     // String name= " La cabra";
      //int age= 40;
-     
+  
     // System.out.println("Hola mundo");
      //System.out.println("Name" + name);
      //System.out.println("Age " + age);
      //System.out.println("Adios mundo");
      /*tipos de datos numericos 
-     
+   
      int, long, short, float, double, numeric, money, decimal
-     
+
      Manejo de fechas:
      Date
-     
+    
      Cadenas de caracteres:
      String, cahr
-     
+  
      Obejtos:
      Object
-     
+  
      Data Structures:
-     
+    
      Arrays or Vectors: int[]x;
                         int[]y;
      
@@ -97,7 +119,7 @@ public class Main_progra {
     ej = new Semana_2_clase();
     ej.quiz3();*/
     
-    Lab1 ej =new Lab1();
+    /*1 ej =new Lab1();
     ej.Ejercicio1();
     
   
@@ -135,9 +157,9 @@ public class Main_progra {
     
     
     
-   ej.ejercicio12();
+   ej.ejercicio12();*/
      
     
     }
-    
+ 
 }
