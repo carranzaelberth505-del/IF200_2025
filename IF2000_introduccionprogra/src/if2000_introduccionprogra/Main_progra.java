@@ -5,7 +5,7 @@
 package if2000_introduccionprogra;
 import Logic.Lab1;import Logic.Semana_2_clase;
 import Logic.lab_2;
-
+import Logic.*;
 
 
 
@@ -17,7 +17,14 @@ import Logic.lab_2;
  */import java.util.Scanner;
 public class Main_progra{  
    public static void main (String args []){
-    /*  Person client1 =
+  practexam  ej;
+  ej = new practexam ();
+  //ej.practexam48();
+  ej.ejem();
+  
+       
+       
+       /*  Person client1 =
 new Person("Edgardo", "Corrales", "1-2323-4545", "45456789", 18);
 
 SavingAccaunt account1 = new SavingAccaunt("2025-09-04", 12, 5, "1000567801", 25000, client1);
